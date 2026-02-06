@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/844912517.svg)](https://doi.org/10.5281/zenodo.14825812)
 # Deep Generative Classification of Blood Cell Morphology
 
-This repository contains the code accompanying the paper ["Deep Generative Classification of Blood Cell Morphology"](https://arxiv.org/abs/2408.08982), which is published as a preprint on arXiv and is currently under peer review. The code demonstrates the application of diffusion-based models for classification tasks, with a focus on blood cell morphology. It provides a foundation for reproducing key findings and offers a framework for further exploration in this area.
+This repository contains the code accompanying the paper ["Deep Generative Classification of Blood Cell Morphology"](https://www.nature.com/articles/s42256-025-01122-7), published in Nature Machine Intelligence. The code demonstrates the application of diffusion-based models for classification tasks, with a focus on blood cell morphology. It provides a foundation for reproducing key findings and offers a framework for further exploration in this area.
 
 ## Key Features
 
@@ -165,10 +165,14 @@ This code is licenced under the Apache 2.0 Licence.
 If you use this code in your research, please cite our paper:
 
 ```
-@article{deltadahl2024deep,
-  title={Deep Generative Classification of Blood Cell Morphology},
-  author={Deltadahl, Simon and Gilbey, Julian and Van Laer, Christine and Boeckx, Nancy and Leers, Mathie and Freeman, Tanya and Aiken, Laura and Farren, Timothy and Smith, Matt and Zeina, Mohamad and {BloodCounts! consortium} and Rudd, James HF and Piazzese, Concetta and Taylor, Joseph and Gleadall, Nicholas and Schönlieb, Carola-Bibiane and Sivapalaratnam, Suthesh and Roberts, Michael and Nachev, Parashkev},
-  journal={arXiv preprint arXiv:2408.08982},
-  year={2024}
+@article{deltadahl2025deep,
+  title={Deep generative classification of blood cell morphology},
+  author={Deltadahl, Simon and Gilbey, Julian and Van Laer, Christine and Boeckx, Nancy and Leers, Mathie PG and Freeman, Tanya and Aiken, Laura and Farren, Timothy and Smith, Matthew and Zeina, Mohamad and others},
+  journal={Nature Machine Intelligence},
+  volume={7},
+  number={11},
+  pages={1791--1803},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 ```
